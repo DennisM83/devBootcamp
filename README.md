@@ -1,4 +1,4 @@
-# devBootcamp
+# DevBootcamp
 
 Bootcamp App created using Node.js, Express, and MongoDB
 
